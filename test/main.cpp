@@ -12,7 +12,5 @@ int main(int argc, char** argv)
     // change 2
     // change 3
     
-    // nigga comments
-
     return 0;
 }
